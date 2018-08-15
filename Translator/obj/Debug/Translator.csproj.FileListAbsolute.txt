@@ -128,3 +128,15 @@ C:\Users\peterli\Documents\Translator\Translator\obj\Debug\Translator.Migrations
 C:\Users\peterli\Documents\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
 C:\Users\peterli\Documents\Translator\Translator\obj\Debug\Translator.Migrations.initialmigration.resources
 C:\Users\peterli\Documents\Translator\Translator\obj\Debug\Translator.Migrations.newdatabases.resources
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\peterli\Documents\Translator\Translator\bin\RabbitMQ.Client.dll
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\peterli\Documents\Translator\Translator\bin\RabbitMQ.Client.xml
