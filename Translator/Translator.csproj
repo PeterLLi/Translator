@@ -244,6 +244,10 @@
     <Compile Include="Migrations\201808142104530_newdatabases.Designer.cs">
       <DependentUpon>201808142104530_newdatabases.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201808171414157_newmodeldatabases.cs" />
+    <Compile Include="Migrations\201808171414157_newmodeldatabases.Designer.cs">
+      <DependentUpon>201808171414157_newmodeldatabases.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -346,6 +350,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201808142104530_newdatabases.resx">
       <DependentUpon>201808142104530_newdatabases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808171414157_newmodeldatabases.resx">
+      <DependentUpon>201808171414157_newmodeldatabases.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

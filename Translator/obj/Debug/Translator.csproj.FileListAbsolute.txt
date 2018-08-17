@@ -140,3 +140,4 @@ C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.Ow
 C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 C:\Users\peterli\Documents\Translator\Translator\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
 C:\Users\peterli\Documents\Translator\Translator\bin\RabbitMQ.Client.xml
+C:\Users\peterli\Documents\Translator\Translator\obj\Debug\Translator.Migrations.newmodeldatabases.resources

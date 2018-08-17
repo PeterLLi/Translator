@@ -70,6 +70,46 @@ namespace Translator.Models
         public string Email { get; set; }
 
         [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "First Name")]
+        public string FirstName { get; set; }
+
+        [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "Last Name")]
+        public string LastName { get; set; }
+
+        [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "Ethnicity")]
+        public string Ethnicity { get; set; }
+
+        [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "Primary Language")]
+        public string PrimaryLanguage { get; set; }
+
+        [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "Secondary Language")]
+        public string SecondaryLanguage { get; set; }
+
+        [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "Language Wanted")]
+        public string LanguageWanted { get; set; }
+
+        [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "Province")]
+        public string Province { get; set; }
+
+        [Required]
+        [DataType(DataType.Text)]
+        [Display(Name = "Country")]
+        public string Country { get; set; }
+
+        [Required]
         [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
         [DataType(DataType.Password)]
         [Display(Name = "Password")]

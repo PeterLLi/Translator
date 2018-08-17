@@ -165,8 +165,17 @@ namespace Translator.Controllers
                     }
                 }
 
-
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+                var user = new ApplicationUser { UserName = model.Email,
+                    Email = model.Email,
+                    FirstName = model.FirstName,
+                    LastName = model.LastName,
+                    Ethnicity = model.Ethnicity,
+                    PrimaryLanguage = model.PrimaryLanguage,
+                    SecondaryLanguage = model.SecondaryLanguage,
+                    LanguageWanted = model.LanguageWanted,
+                    Province = model.Province,
+                    Country = model.Country
+                };
 
                 //Here we pass the byte array to user context to store in db 
                 user.UserPhoto = imageData;
